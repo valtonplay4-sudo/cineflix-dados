@@ -98,6 +98,26 @@
         "Séries"
       ],
       "published": "2026-11-18T13:28:39.182Z"
+    },
+    {
+      "id": 60572,
+      "type": "tv",
+      "title": "Pokémon",
+      "year": "1997",
+      "rating": "8.0",
+      "overview": "Explore o mundo de Pokémon com Ash Ketchum e seu parceiro Pikachu enquanto eles fazem novos amigos, encontram Pokémon poderosos e buscam o objetivo supremo de Ash: Tornar-se um Mestre Pokémon!",
+      "poster": "/ck1nfqYxMkiGvBVztIuM6b7fHoC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+      "genres": [
+        "Animação",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=60572&tmdb=1&s=1&e=1",
+      "labels": [
+        "Séries"
+      ],
+      "published": "2026-11-18T13:29:34.674Z"
     }
   ],
   "episodes": []
