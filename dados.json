@@ -245,6 +245,20 @@
       "still": "/A9cFPkHjWoipVwyvk1W8Oj601n0.jpg",
       "iframe": "https://multiembed.mov/?video_id=31910&tmdb=1&s=1&e=2",
       "published": "2026-11-18T13:37:39.758Z"
+    },
+    {
+      "episodio": true,
+      "id": "31910-s1e3",
+      "seriesId": 31910,
+      "seriesTitle": "Naruto Shippuden",
+      "type": "anime",
+      "season": 1,
+      "episode": 3,
+      "title": "Os Resultados do Treinamento",
+      "runtime": "23",
+      "still": "/3ZhyOj5btCsLximupjKCBvNgNnd.jpg",
+      "iframe": "https://multiembed.mov/?video_id=31910&tmdb=1&s=1&e=3",
+      "published": "2026-11-18T13:39:26.684Z"
     }
   ]
 }
