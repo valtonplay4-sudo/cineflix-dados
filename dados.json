@@ -231,6 +231,20 @@
       "still": "/lFg0YnHI7sJkPSv38a8ctE96sqr.jpg",
       "iframe": "https://multiembed.mov/?video_id=31910&tmdb=1&s=1&e=1",
       "published": "2026-11-18T13:37:36.411Z"
+    },
+    {
+      "episodio": true,
+      "id": "31910-s1e2",
+      "seriesId": 31910,
+      "seriesTitle": "Naruto Shippuden",
+      "type": "anime",
+      "season": 1,
+      "episode": 2,
+      "title": "Os Akatsuki Entram em Ação",
+      "runtime": "23",
+      "still": "/A9cFPkHjWoipVwyvk1W8Oj601n0.jpg",
+      "iframe": "https://multiembed.mov/?video_id=31910&tmdb=1&s=1&e=2",
+      "published": "2026-11-18T13:37:39.758Z"
     }
   ]
 }
