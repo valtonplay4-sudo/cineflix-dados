@@ -139,6 +139,26 @@
         "Séries"
       ],
       "published": "2026-11-18T13:34:11.510Z"
+    },
+    {
+      "id": 31910,
+      "type": "anime",
+      "title": "Naruto Shippuden",
+      "year": "2007",
+      "rating": "8.5",
+      "overview": "Naruto Shippuden ocorre 2 anos e meio após Naruto ter deixado a vila para treinar com Jiraiya. Após seu retorno, Naruto descobre que seus amigos  shinobi's o superaram na classificação, e ele caiu para trás. No  entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de  enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela  lentamente e os perigos surgem mais do que nunca!",
+      "poster": "/nRJmByfK9XdtOY73VArcN8KpKVs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+      "genres": [
+        "Animação",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=31910&tmdb=1&s=1&e=1",
+      "labels": [
+        "Animes"
+      ],
+      "published": "2026-11-18T13:37:26.503Z"
     }
   ],
   "episodes": [
