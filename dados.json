@@ -321,6 +321,20 @@
       "still": "/gjktze6OF0wESkbHU4h3dxcWNoe.jpg",
       "iframe": "https://multiembed.mov/?video_id=94664&tmdb=1&s=1&e=2",
       "published": "2026-11-18T13:58:10.967Z"
+    },
+    {
+      "episodio": true,
+      "id": "94664-s1e4",
+      "seriesId": 94664,
+      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "type": "anime",
+      "season": 1,
+      "episode": 4,
+      "title": "Reunião Familiar de Emergência",
+      "runtime": "24",
+      "still": "/uVN34pxWO1N1eFchpHdPXFMrMx0.jpg",
+      "iframe": "https://multiembed.mov/?video_id=94664&tmdb=1&s=1&e=4",
+      "published": "2026-11-18T13:58:17.113Z"
     }
   ]
 }
