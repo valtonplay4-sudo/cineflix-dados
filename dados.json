@@ -307,6 +307,20 @@
       "still": "/sS93JaHkWvhecsmgSdg5MFel3y5.jpg",
       "iframe": "https://multiembed.mov/?video_id=94664&tmdb=1&s=1&e=1",
       "published": "2026-11-18T13:58:06.932Z"
+    },
+    {
+      "episodio": true,
+      "id": "94664-s1e2",
+      "seriesId": 94664,
+      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "type": "anime",
+      "season": 1,
+      "episode": 2,
+      "title": "Mestra",
+      "runtime": "24",
+      "still": "/gjktze6OF0wESkbHU4h3dxcWNoe.jpg",
+      "iframe": "https://multiembed.mov/?video_id=94664&tmdb=1&s=1&e=2",
+      "published": "2026-11-18T13:58:10.967Z"
     }
   ]
 }
