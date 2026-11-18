@@ -59,6 +59,26 @@
         "Filmes"
       ],
       "published": "2026-11-18T12:27:04.711Z"
+    },
+    {
+      "id": 1003596,
+      "type": "movie",
+      "title": "Vingadores: Doutor Destino",
+      "year": "2026",
+      "rating": "N/A",
+      "overview": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
+      "poster": "/xYnLlYTQ3v31qllNPTZEIDzMOKl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Aventura"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1003596&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-18T12:36:41.216Z"
     }
   ],
   "episodes": []
