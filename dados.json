@@ -169,6 +169,20 @@
       "still": "/mpVgJTmceLQHoTDUWHsqRvS7oYy.jpg",
       "iframe": "https://multiembed.mov/?video_id=1877&tmdb=1&s=1&e=1",
       "published": "2026-11-18T13:34:30.905Z"
+    },
+    {
+      "episodio": true,
+      "id": "1877-s1e2",
+      "seriesId": 1877,
+      "seriesTitle": "Phineas e Ferb",
+      "type": "tv",
+      "season": 1,
+      "episode": 2,
+      "title": "Festa de Terror na Praia com Gnomos de Jardim",
+      "runtime": "11",
+      "still": "/lUmJgS49b8iOZKvb79oOirEjzQ9.jpg",
+      "iframe": "https://multiembed.mov/?video_id=1877&tmdb=1&s=1&e=2",
+      "published": "2026-11-18T13:34:37.140Z"
     }
   ]
 }
