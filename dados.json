@@ -118,6 +118,27 @@
         "Séries"
       ],
       "published": "2026-11-18T13:29:34.674Z"
+    },
+    {
+      "id": 1877,
+      "type": "tv",
+      "title": "Phineas e Ferb",
+      "year": "2007",
+      "rating": "7.9",
+      "overview": "Todos os dias, dois meio-irmãos nas férias de verão embarcam em um grande novo projeto, o que irrita sua irmã controladora, Candace, que sempre tenta entrega-los para sua mãe. Enquanto isso, seu animal de estimação Perry o ornitorrinco luta contra o malvado Dr. Doofenshmirtz.",
+      "poster": "/cu2nJgERq8ZmRUlBFPsamdJb7rh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Família",
+        "Sci-Fi & Fantasy"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1877&tmdb=1&s=1&e=1",
+      "labels": [
+        "Séries"
+      ],
+      "published": "2026-11-18T13:34:11.510Z"
     }
   ],
   "episodes": [
