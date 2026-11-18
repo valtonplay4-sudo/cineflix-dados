@@ -279,6 +279,20 @@
       "still": "/3ZhyOj5btCsLximupjKCBvNgNnd.jpg",
       "iframe": "https://multiembed.mov/?video_id=31910&tmdb=1&s=1&e=3",
       "published": "2026-11-18T13:39:26.684Z"
+    },
+    {
+      "episodio": true,
+      "id": "94664-s1e3",
+      "seriesId": 94664,
+      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "type": "anime",
+      "season": 1,
+      "episode": 3,
+      "title": "Um amigo",
+      "runtime": "24",
+      "still": "/d29kiiic7xbvsxCnJ4syiO3JxYy.jpg",
+      "iframe": "https://multiembed.mov/?video_id=94664&tmdb=1&s=1&e=3",
+      "published": "2026-11-18T13:57:59.890Z"
     }
   ]
 }
