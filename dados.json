@@ -199,6 +199,25 @@
         "Filmes"
       ],
       "published": "2026-11-18T22:21:10.192Z"
+    },
+    {
+      "id": 1434,
+      "type": "tv",
+      "title": "Uma Família da Pesada",
+      "year": "1999",
+      "rating": "7.4",
+      "overview": "A série animada apresenta as aventuras da família Griffin. O ignorante Peter e sua esposa Lois residem em Quahog, em Rhode Island e têm três filhos. Meg, a filha mais velha, é uma pária social, e o adolescente Chris é estranho e sem noção quando se trata do sexo oposto. O mais novo, Stewie, é um bebê gênio decidido a matar sua mãe e destruir o mundo. O cachorro falante, Brian, mantém Stewie sob controle enquanto toma martinis e resolve seus próprios problemas de vida.",
+      "poster": "/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "genres": [
+        "Animação",
+        "Comédia"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1434&tmdb=1&s=1&e=1",
+      "labels": [
+        "Séries"
+      ],
+      "published": "2026-11-18T22:21:53.043Z"
     }
   ],
   "episodes": [
