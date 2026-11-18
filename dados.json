@@ -218,6 +218,26 @@
         "Séries"
       ],
       "published": "2026-11-18T22:21:53.043Z"
+    },
+    {
+      "id": 57243,
+      "type": "tv",
+      "title": "Doctor Who",
+      "year": "2005",
+      "rating": "7.6",
+      "overview": "Acompanhe as incríveis jornadas pelo tempo e espaço do Doutor, um alienígena da linhagem dos senhores do tempo. Nativo do planeta Gallifrey, o Doutor utiliza a Tardis, uma nave capaz de se camuflar como uma cabine de polícia, para explorar o passado e o futuro nos mais distantes lugares do universo.",
+      "poster": "/8xz8ZPiuRLeaganjKd6WtE6S50E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=57243&tmdb=1&s=1&e=1",
+      "labels": [
+        "Séries"
+      ],
+      "published": "2026-11-18T22:30:53.810Z"
     }
   ],
   "episodes": [
