@@ -159,6 +159,26 @@
         "Animes"
       ],
       "published": "2026-11-18T13:37:26.503Z"
+    },
+    {
+      "id": 94664,
+      "type": "anime",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "year": "2021",
+      "rating": "8.4",
+      "overview": "Quando um fracassado de 34 anos é atropelado por um ônibus, sua história não acaba. Reencarnado em um novo mundo como criança, Rudy aproveitará cada oportunidade para viver a vida que sempre quis. Com novos amigos, habilidades mágicas e coragem para fazer tudo o que sempre sonhou, ele embarca em uma aventura épica – com toda a sua experiência do passado intacta!",
+      "poster": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/pfgndj46RLPVJRWkUSCJBgLJ93w.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animação",
+        "Sci-Fi & Fantasy"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=94664&tmdb=1&s=1&e=1",
+      "labels": [
+        "Animes"
+      ],
+      "published": "2026-11-18T13:57:19.500Z"
     }
   ],
   "episodes": [
