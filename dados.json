@@ -298,6 +298,26 @@
         "Filmes"
       ],
       "published": "2026-11-19T17:42:23.706Z"
+    },
+    {
+      "id": 312359,
+      "type": "anime",
+      "title": "Dragon Ball Super: Beerus",
+      "year": "2026",
+      "rating": "9.6",
+      "overview": "Anos após a feroz batalha contra Majin Boo, a Terra recupera uma breve paz. Simultaneamente, Bills, o Deus da Destruição, desperta de seu longo sono. Cientes de seu poder avassalador para destruir planetas, Sr. Kaioh e Kaiohshin observam seu retorno com grande temor.",
+      "poster": "/w5ai45092PIlV1Vbt7kswry2C03.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "genres": [
+        "Animação",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=312359&tmdb=1&s=1&e=1",
+      "labels": [
+        "Animes"
+      ],
+      "published": "2026-11-19T17:42:43.201Z"
     }
   ],
   "episodes": [
