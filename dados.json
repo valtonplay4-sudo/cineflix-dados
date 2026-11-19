@@ -318,6 +318,25 @@
         "Animes"
       ],
       "published": "2026-11-19T17:42:43.201Z"
+    },
+    {
+      "id": 1567605,
+      "type": "movie",
+      "title": "Ebenezer e os Fantasmas do Natal",
+      "year": "2026",
+      "rating": "7.6",
+      "overview": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
+      "poster": "/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "genres": [
+        "Fantasia",
+        "Comédia"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1567605&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T17:53:19.278Z"
     }
   ],
   "episodes": [
