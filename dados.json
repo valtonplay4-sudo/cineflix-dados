@@ -375,6 +375,24 @@
         "Filmes"
       ],
       "published": "2026-11-19T18:46:02.839Z"
+    },
+    {
+      "id": 1400837,
+      "type": "movie",
+      "title": "Outra Mamãe",
+      "year": "2026",
+      "rating": "6.4",
+      "overview": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "poster": "/hiuBB4ZqGbL7uihdVPUahFtg7Zr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "genres": [
+        "Terror"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1400837&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T18:51:40.334Z"
     }
   ],
   "episodes": [
