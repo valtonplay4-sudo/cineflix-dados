@@ -258,6 +258,26 @@
         "Filmes"
       ],
       "published": "2026-11-18T22:31:30.756Z"
+    },
+    {
+      "id": 157336,
+      "type": "movie",
+      "title": "Interestelar",
+      "year": "2014",
+      "rating": "8.5",
+      "overview": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+      "poster": "/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Ficção científica"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=157336&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T17:42:02.094Z"
     }
   ],
   "episodes": [
