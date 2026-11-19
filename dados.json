@@ -337,6 +337,25 @@
         "Filmes"
       ],
       "published": "2026-11-19T17:53:19.278Z"
+    },
+    {
+      "id": 1422041,
+      "type": "movie",
+      "title": "A Bola Preta",
+      "year": "2026",
+      "rating": "8.0",
+      "overview": "As histórias de três homens cujas vidas estão intimamente ligadas pelo desejo, pela dor e pela herança, ao longo de três épocas diferentes: 1932, 1937 e 2017.",
+      "poster": "/66Pj7O90qWce4pYZYKriVkFNcOS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1422041&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T18:01:52.710Z"
     }
   ],
   "episodes": [
