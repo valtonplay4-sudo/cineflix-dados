@@ -356,6 +356,25 @@
         "Filmes"
       ],
       "published": "2026-11-19T18:01:52.710Z"
+    },
+    {
+      "id": 1263337,
+      "type": "movie",
+      "title": "Coração Selvagem",
+      "year": "2026",
+      "rating": "7.7",
+      "overview": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
+      "poster": "/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "genres": [
+        "Aventura",
+        "Thriller"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1263337&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T18:46:02.839Z"
     }
   ],
   "episodes": [
