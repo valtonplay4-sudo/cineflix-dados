@@ -472,6 +472,25 @@
         "Filmes"
       ],
       "published": "2026-11-19T19:10:18.902Z"
+    },
+    {
+      "id": 1294189,
+      "type": "movie",
+      "title": "Fuga Mortal",
+      "year": "2026",
+      "rating": "6.4",
+      "overview": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
+      "poster": "/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1294189&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T19:16:38.842Z"
     }
   ],
   "episodes": [
