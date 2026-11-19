@@ -393,6 +393,26 @@
         "Filmes"
       ],
       "published": "2026-11-19T18:51:40.334Z"
+    },
+    {
+      "id": 1423191,
+      "type": "movie",
+      "title": "Resident Evil",
+      "year": "2026",
+      "rating": "7.5",
+      "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+      "poster": "/bvBTdNaWVPrHKjyPFnsigZJsKdD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "genres": [
+        "Terror",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1423191&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T18:56:07.143Z"
     }
   ],
   "episodes": [
