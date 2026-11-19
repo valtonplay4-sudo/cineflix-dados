@@ -452,6 +452,26 @@
         "Filmes"
       ],
       "published": "2026-11-19T19:08:33.909Z"
+    },
+    {
+      "id": 1058424,
+      "type": "movie",
+      "title": "Hope: O Primeiro Impacto",
+      "year": "2026",
+      "rating": "6.8",
+      "overview": "A polícia investiga a presença de uma criatura misteriosa que vem causando tumulto na remota vila de Hope Harbor. Ao seguir os rastros do animal, um grupo de caçadores acaba se tornando sua presa involuntária, dando início a um conflito que se transforma em uma tragédia de proporções cósmicas.",
+      "poster": "/yfWe8Vaac8b8f9dagmzBWOroUcg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "genres": [
+        "Ficção científica",
+        "Mistério",
+        "Ação"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1058424&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-19T19:10:18.902Z"
     }
   ],
   "episodes": [
