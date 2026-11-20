@@ -591,6 +591,26 @@
         "Filmes"
       ],
       "published": "2026-11-20T07:16:58.112Z"
+    },
+    {
+      "id": 1381071,
+      "type": "movie",
+      "title": "Godzilla Minus Zero",
+      "year": "2026",
+      "rating": "7.7",
+      "overview": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal. No momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante.",
+      "poster": "/ebVZ8n64rtHsSItTei4EgTKzPVu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "genres": [
+        "Ficção científica",
+        "Terror",
+        "Ação"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1381071&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-20T07:22:18.813Z"
     }
   ],
   "episodes": [
