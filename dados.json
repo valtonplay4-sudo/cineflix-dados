@@ -611,6 +611,25 @@
         "Filmes"
       ],
       "published": "2026-11-20T07:22:18.813Z"
+    },
+    {
+      "id": 1543469,
+      "type": "movie",
+      "title": "No Coração de Nashville",
+      "year": "2026",
+      "rating": "6.3",
+      "overview": "Misty Jones (Jessica Chastain), uma ex-estrela da música country, sai do isolamento para investigar o desaparecimento de sua sobrinha — também uma cantora country em ascensão — e precisa enfrentar seu próprio passado e o submundo sórdido de Nashville. Sua busca revela um lado obscuro da cidade, onde ninguém, nem mesmo Misty, é quem aparenta ser.",
+      "poster": "/rhtPUCWTsZX9aWYeOpQDgtgCqCQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "genres": [
+        "Thriller",
+        "Mistério"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1543469&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-20T07:22:33.357Z"
     }
   ],
   "episodes": [
