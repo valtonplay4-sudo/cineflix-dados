@@ -571,6 +571,26 @@
         "Filmes"
       ],
       "published": "2026-11-20T07:16:43.082Z"
+    },
+    {
+      "id": 1507696,
+      "type": "movie",
+      "title": "Apocalipse Z: Novo Mundo",
+      "year": "2026",
+      "rating": "6.2",
+      "overview": "Após o surto do vírus TSJ, as Ilhas Canárias se tornaram o último refúgio da Europa. Quando uma missão parte rumo a Madri em busca de suprimentos, Roberto se junta à equipe com intenções duvidosas. Cercados por infectados e divididos por lealdades conflitantes, eles precisam lutar pela sobrevivência e enfrentar um dilema moral: salvar a própria pele ou arriscar tudo pelo que resta da humanidade.",
+      "poster": "/tzk90shtAI6WaoDIjLLVten7oov.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Terror"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1507696&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-20T07:16:58.112Z"
     }
   ],
   "episodes": [
