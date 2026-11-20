@@ -551,6 +551,26 @@
         "Filmes"
       ],
       "published": "2026-11-20T07:15:07.763Z"
+    },
+    {
+      "id": 1300968,
+      "type": "movie",
+      "title": "Jogos Vorazes: Amanhecer na Colheita",
+      "year": "2026",
+      "rating": "7.3",
+      "overview": "Revisite o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
+      "poster": "/ibZ6GSHtCeC7fLDJ2uyXNemgYwr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Aventura"
+      ],
+      "iframe": "https://multiembed.mov/?video_id=1300968&tmdb=1",
+      "labels": [
+        "Filmes"
+      ],
+      "published": "2026-11-20T07:16:43.082Z"
     }
   ],
   "episodes": [
